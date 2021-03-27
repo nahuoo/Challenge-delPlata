@@ -12,9 +12,9 @@ Confort para contruir la aplicación en poco tiempo:
 * [react-spring](https://www.react-spring.io/)
 * [styled-components](https://styled-components.com/)
 
-* Separé las dos opciones(rutas) con un Router.
-* Separé un Reducer junto con Context API donde se produce el Fetch a la api para aportar escalado
-* Responsive
+Separé las dos opciones(rutas) con un Router.
+Separé un Reducer junto con Context API donde se produce el Fetch a la api para aportar escalado
+Responsive
 
 Agregaría sincronización con api para renderizado en tiempo real (ej: socket.io)
 
